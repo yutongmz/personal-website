@@ -104,7 +104,7 @@
   background-color:#000}
 
 email {
-    font-size: 14px;
+    font-size: 15px;
     font-family: "Ubuntu Mono";
 }
 
@@ -208,16 +208,21 @@ papertitle {
 
     .image.avatar {
       border-radius: 100%;
+      padding: 20px;
     }
 
       .image.avatar:before {
         display: none;
+
       }
 
       .image.avatar img {
-        border-radius: 100%;
-        width: 45%;
-        padding: 20px;
+        
+        width: 100%;
+        object-fit: cover;
+        
+        border-radius: 20px;
+        // padding: 20px;
         // border: 1px solid #ddd;
         // padding: 3px;
         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
@@ -235,9 +240,10 @@ h3, h4, h5, h6 {
 }
 
 h1 {
-  font-weight: 500;
+  font-weight: 700;
   color:#043361;
-  margin:0 0 20px;
+  margin:0 5 20px;
+
 }
 
 h2 {

@@ -4,20 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Sociology Ph.D. student at the University of Chicago. I completed a M.A. in Computational Social Science at UChicago in 2025 and a B.S. in Computer Science and Social & Political History from Carnegie Mellon University in 2022. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Sociology of Culture:** language, word embedding, pragmatism
+- **Computational Social Science:** LLM interpretability, high‐performance computing
+- **History:** nationalism, identity, post-imperial state, quantitative data
+
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sep. 2023- Jun. 2025]** Awarded University Scholar Full‐Tuition Scholarship for the M.A. program in Computational Social Science at the University of Chicago.
+- **[Jun. 2022 – Feb. 2023]** Worked as a Data Engineer at Stellar Cyber.
+- **[May. 2022]** Received the Ludwig Schaefer Award for Outstanding Achievement in History at Carnegie Mellon University.
 
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
